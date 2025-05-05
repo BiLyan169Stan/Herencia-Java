@@ -26,7 +26,7 @@ public class Transportes {
         System.out.println("Informacion del Vehiculo Aereo: ");
         vehiculoAereo.mostrarInfo();
         
-        System.out.println("Informacion del Vehiculo Aereo: ");
+        System.out.println("Informacion del Vehiculo Espacial: ");
         vehiculoEspacial.mostrarInfo();
     }
 }
